@@ -1,4 +1,4 @@
-# Loading the Extraction, Transformation and loading of Data into PostgreSQL Database
+#Extraction, Transformation and loading of an Ecommerce Data into PostgreSQL Database
 
 This repository contains the code and resources to Extract, Transform & load data into a PostgreSQL database. The project involves data modeling, transformation, and final loading into the database using a Jupyter notebook.
 
