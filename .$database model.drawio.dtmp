@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yXGD3q_rG976L8ZdX7E3-153" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="420" y="80" width="880" height="880" as="geometry" />
-        </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-23" value="yanki_etl" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="120" width="250" height="670" as="geometry" />
         </mxCell>
@@ -621,6 +618,9 @@
         </mxCell>
         <mxCell id="yXGD3q_rG976L8ZdX7E3-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yXGD3q_rG976L8ZdX7E3-116" target="yXGD3q_rG976L8ZdX7E3-97">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXGD3q_rG976L8ZdX7E3-153" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="80" width="860" height="860" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
