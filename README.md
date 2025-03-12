@@ -5,7 +5,7 @@ This repository contains the code and resources to Extract, Transform & load dat
 ## Repository Structure
 
 
-## Files and Folders
+## Files and Folders 
 
 - **dataset/**: This folder contains the transformed data that will be loaded into the PostgreSQL database.
   
